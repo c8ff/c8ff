@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @c8ff
+- 🌱 I’m currently learning Java and C#
